@@ -4,8 +4,9 @@
   "description": "spider",
   "main": "spider.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node spider"
   },
+  "repository": "git://github.com/spider-all/spider-nodejs",
   "author": "Tosone",
   "license": "MIT",
   "dependencies": {
