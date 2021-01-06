@@ -10,7 +10,7 @@
   "author": "Tosone",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "consola": "^2.11.3",
     "sqlite3": "^4.1.1"
   }
